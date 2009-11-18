@@ -1,0 +1,42 @@
+11-06-2009 08:55:26: System started at 11-06-2009 08:55:26
+11-06-2009 08:55:41: Thread Thread[AWT-EventQueue-0,6,main] caused an exception: java.lang.NullPointerException
+java.lang.NullPointerException
+	at filesystemalgorthims.FileLoaderProcess.<init>(FileLoader.java:108)
+	at filesystemalgorthims.FileLoader.createProcess(FileLoader.java:58)
+	at dataanalyzer.gui.PAlgorithm.bRunActionPerformed(PAlgorithm.java:175)
+	at dataanalyzer.gui.PAlgorithm.access$000(PAlgorithm.java:21)
+	at dataanalyzer.gui.PAlgorithm$1.actionPerformed(PAlgorithm.java:76)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1995)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2318)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:387)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:242)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:236)
+	at java.awt.Component.processMouseEvent(Component.java:6041)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3265)
+	at java.awt.Component.processEvent(Component.java:5806)
+	at java.awt.Container.processEvent(Container.java:2058)
+	at java.awt.Component.dispatchEventImpl(Component.java:4413)
+	at java.awt.Container.dispatchEventImpl(Container.java:2116)
+	at java.awt.Component.dispatchEvent(Component.java:4243)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4322)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:3986)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:3916)
+	at java.awt.Container.dispatchEventImpl(Container.java:2102)
+	at java.awt.Window.dispatchEventImpl(Window.java:2440)
+	at java.awt.Component.dispatchEvent(Component.java:4243)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:599)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:273)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:183)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:173)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:168)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:160)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:121)
+11-06-2009 08:58:25: System started at 11-06-2009 08:58:25
+11-06-2009 09:02:04: System started at 11-06-2009 09:02:04
+11-06-2009 09:08:26: System started at 11-06-2009 09:08:26
+11-06-2009 10:00:36: System started at 11-06-2009 10:00:36
+11-06-2009 10:03:28: System started at 11-06-2009 10:03:28
+11-06-2009 10:05:56: System started at 11-06-2009 10:05:56
+22-06-2009 01:40:01: System started at 22-06-2009 01:40:01
+18-11-2009 12:06:06: System started at 18-11-2009 12:06:06
+19-11-2009 12:05:11: System started at 19-11-2009 12:05:11

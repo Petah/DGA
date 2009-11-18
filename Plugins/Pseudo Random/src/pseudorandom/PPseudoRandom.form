@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.6" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="lTitle" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="lMin" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="lMax" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="lSeed" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="lStep" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="lMinLimit" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="lMaxLimit" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="tfMaxLimit" alignment="1" pref="299" max="32767" attributes="0"/>
+                          <Component id="tfMinLimit" alignment="1" pref="299" max="32767" attributes="0"/>
+                          <Component id="tfStep" alignment="1" pref="299" max="32767" attributes="0"/>
+                          <Component id="tfSeed" alignment="1" pref="299" max="32767" attributes="0"/>
+                          <Component id="tfMin" alignment="1" pref="299" max="32767" attributes="0"/>
+                          <Component id="tfMax" alignment="0" pref="299" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="lTitle" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lMin" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="tfMin" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lMax" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="tfMax" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lSeed" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="tfSeed" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lStep" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="tfStep" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="tfMinLimit" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lMinLimit" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="tfMaxLimit" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lMaxLimit" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="lTitle">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="36" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Pseudo Random"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lMin">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Minimum value:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="tfMin">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lMax">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Maximum value:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lSeed">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Seed:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lStep">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Step:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="tfMax">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="1000"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="tfSeed">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="tfStep">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="tfMinLimit">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-128"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="tfMaxLimit">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="127"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lMaxLimit">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Maximum limit:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lMinLimit">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Minimum limit:"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>

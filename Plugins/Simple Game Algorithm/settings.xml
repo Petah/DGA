@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<settings>
+<setting name="frameOpen:Resource Monitor" value="true" type="Boolean" />
+<setting name="updateDirectory" value="updates\" type="String" />
+<setting name="windowPosition" x="-8" y="22" type="Point" />
+<setting name="frameOpen:Console" value="true" type="Boolean" />
+<setting name="windowSize" x="1696" y="1036" type="Point" />
+<setting name="framePosition:SimpleGame" x="158" y="123" type="Point" />
+<setting name="lookAndFeel" value="Windows" type="String" />
+<setting name="returnPort" value="4056" type="Integer" />
+<setting name="serverPort" value="4055" type="Integer" />
+<setting name="algorithmDirectory" value="build\classes\" type="String" />
+<setting name="hostName" value="localhost" type="String" />
+<setting name="updateFile" value="update.xml" type="String" />
+<setting name="windowState" value="6" type="Integer" />
+<setting name="framePosition:Resource Monitor" x="89" y="292" type="Point" />
+<setting name="pluginDirectory" value="plugins\" type="String" />
+<setting name="updateServer" value="http://localhost/dga/" type="String" />
+</settings>

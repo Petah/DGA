@@ -1,0 +1,5 @@
+dataanalyzer.entity
+dataanalyzer.exception
+dataanalyzer.gui
+dataanalyzer.interfaces
+dataanalyzer.listeners

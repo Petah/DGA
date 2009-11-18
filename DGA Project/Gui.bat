@@ -1,0 +1,1 @@
+java -Xmx1g -jar dist\DGA.jar -gui

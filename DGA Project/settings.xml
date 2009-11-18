@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<settings>
+<setting name="updateDirectory" value="updates\" type="String" />
+<setting name="framePosition:Hello world!" x="145" y="234" type="Point" />
+<setting name="showProgress" value="false" type="Boolean" />
+<setting name="framePosition:Hello world! test" x="158" y="370" type="Point" />
+<setting name="framePosition:Wave Form" x="556" y="218" type="Point" />
+<setting name="framePosition:Settings" x="62" y="401" type="Point" />
+<setting name="framePosition:Usage analysis of 2" x="0" y="0" type="Point" />
+<setting name="framePosition:zip.zip" x="322" y="364" type="Point" />
+<setting name="lookAndFeel" value="Windows" type="String" />
+<setting name="framePosition:10.1.1.110:4056" x="258" y="398" type="Point" />
+<setting name="hostName" value="localhost" type="String" />
+<setting name="frameSize:Usage analysis of 2" x="1124" y="855" type="Point" />
+<setting name="frameOpen:Client" value="false" type="Boolean" />
+<setting name="frameOpen:Resource Monitor" value="true" type="Boolean" />
+<setting name="showOutput" value="false" type="Boolean" />
+<setting name="frameOpen:Update" value="true" type="Boolean" />
+<setting name="framePosition:Client" x="593" y="678" type="Point" />
+<setting name="windowSize" x="1696" y="1036" type="Point" />
+<setting name="framePosition:Usage Analyzer" x="38" y="90" type="Point" />
+<setting name="framePosition:Counter" x="126" y="281" type="Point" />
+<setting name="framePosition:File Loader" x="291" y="398" type="Point" />
+<setting name="framePosition:Counter progress" x="411" y="325" type="Point" />
+<setting name="updateServer" value="http://localhost/dga/" type="String" />
+<setting name="frameOpen:Server" value="false" type="Boolean" />
+<setting name="verbosity" value="8" type="Integer" />
+<setting name="port" value="4055" type="Integer" />
+<setting name="windowPosition" x="-8" y="22" type="Point" />
+<setting name="framePosition:2" x="0" y="0" type="Point" />
+<setting name="framePosition:3" x="232" y="216" type="Point" />
+<setting name="frameOpen:Console" value="true" type="Boolean" />
+<setting name="framePosition:WaveForm" x="181" y="277" type="Point" />
+<setting name="memoryGraphSize" value="60" type="Integer" />
+<setting name="framePosition:10.20.10.173:4056" x="105" y="189" type="Point" />
+<setting name="frameSize:Usage Analyzer" x="508" y="219" type="Point" />
+<setting name="frameSize:Output[Process]" x="385" y="358" type="Point" />
+<setting name="algorithmDirectory" value="plugins\extracted\" type="String" />
+<setting name="framePosition:Pseudo Random" x="533" y="357" type="Point" />
+<setting name="framePosition:Update" x="102" y="127" type="Point" />
+<setting name="framePosition:Output[Process]" x="390" y="336" type="Point" />
+<setting name="frameSize:2" x="1124" y="855" type="Point" />
+<setting name="frameSize:Update" x="637" y="407" type="Point" />
+<setting name="framePosition:Console" x="382" y="3" type="Point" />
+<setting name="frameOpen:Settings" value="false" type="Boolean" />
+<setting name="frameSize:Pseudo Random" x="964" y="413" type="Point" />
+<setting name="framePosition:Server" x="833" y="379" type="Point" />
+<setting name="returnPort" value="4056" type="Integer" />
+<setting name="serverPort" value="4055" type="Integer" />
+<setting name="framePosition:De/Inflater" x="1009" y="13" type="Point" />
+<setting name="updateFile" value="update.xml" type="String" />
+<setting name="windowState" value="6" type="Integer" />
+<setting name="framePosition:Resource Monitor" x="2" y="2" type="Point" />
+<setting name="framePosition:PseudoRandom" x="31" y="355" type="Point" />
+<setting name="framePosition:Counter: 0 progress" x="22" y="53" type="Point" />
+<setting name="pluginDirectory" value="plugins\" type="String" />
+<setting name="frameSize:Console" x="619" y="333" type="Point" />
+</settings>
